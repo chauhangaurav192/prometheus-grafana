@@ -1,0 +1,19 @@
+🎯 Step : Setup Grafana
+
+Open:
+
+http://localhost:3000
+
+Login:
+
+user: admin
+pass: admin
+
+➤ Add Prometheus Data Source
+Go → Settings → Data Sources
+Add → Prometheus
+URL:
+http://prometheus:9090
+
+Click:
+👉 Save & Test
